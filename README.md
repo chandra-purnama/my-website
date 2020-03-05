@@ -1,2 +1,2 @@
 # my-website
-Tutorial by Jason Taylor
+My Personal Website for Exercise
